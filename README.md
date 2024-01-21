@@ -4,7 +4,7 @@
   hey there
   <img src=/>
 </h1>
-</div'https://media.giphy.com/media/l49JHKSDNsFhJyeRi/giphy.gif'>
+<'https://media.giphy.com/media/l49JHKSDNsFhJyeRi/giphy.gif/div>
   
 ### :woman_technologist: About Me :
    
