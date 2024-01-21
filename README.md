@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRmZmJjMjRjYmYwOGU3MjdlZGViOTE0ZGFkM2IwYTllOWRjYjllZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/FGG1TRyh7mHMk/giphy.gif" width="100"/>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="30px"/>
+  <img src=/>
 </h1>
   </div>
   
