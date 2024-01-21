@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="100"/>
 <h1>
   hey there
-  <img src=/>
+  <img src='https://media.giphy.com/media/l49JHKSDNsFhJyeRi/giphy.gif'/>
 </h1>
-<'https://media.giphy.com/media/l49JHKSDNsFhJyeRi/giphy.gif/div>
+</div>
   
 ### :woman_technologist: About Me :
    
