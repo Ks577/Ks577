@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NZLBlBdkhdlTvCHhF8/giphy.gif" width="200"/>
 <h1>
-  <img src="https://media.giphy.com/media/2R07QDhtsqwGIZu8/giphy.gif" width="150"/>
+  <img src="https://giphy.com/gifs/hello-animated-gif-greetings-l2R07QDhtsqwGIZu8" width="150"/>
 </h1>
 </div>
   
