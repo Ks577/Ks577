@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl5cmp1MnR1MDUwN3dmeWF2ODRsMXo3dXdvdmh1cDA0b2R5bzc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif"  />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl5cmp1MnR1MDUwN3dmeWF2ODRsMXo3dXdvdmh1cDA0b2R5bzc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif" width="200" />
 </h1>
 </div>
   
