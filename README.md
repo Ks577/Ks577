@@ -5,7 +5,7 @@
   
 ### :woman_technologist: About Me :
    
-  I am a Flutter Developer from Israel.
+  I am a Flutter Developer.
   
   ---
   ### :hammer_and_wrench: Languages and Tools :
