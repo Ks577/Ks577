@@ -13,6 +13,6 @@
   </div>
 
   <br>
-  <img src="https://giphy.com/stickers/codelikeagirl-code-like-a-girl-8BlEa9XDwxOwdB6mKW" width="600"/>
+  <img src="https://media.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="600"/>
 
 </div>
