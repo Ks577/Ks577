@@ -1,4 +1,4 @@
-**Hey there! I'm Ksenia - Flutter Developer 🌟**  
+**Hey there! I'm Ksenia - Flutter Developer🌟**  
 
 `💡 Innovate` • `🚀 Inspire` • `🎨 Create` 
 
